@@ -5,4 +5,4 @@ Trying to understand how Nokogiri and HTTParty gems can be used for scraping dat
 
 Perform 'bundle install' before launching
 
-Then just user command 'ruby scraper.rb'
+Then just use command 'ruby scraper.rb'
